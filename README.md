@@ -1,9 +1,24 @@
 Hello and welcome to my GitHub profile! 👋 
-As a dedicated Business Intelligence Analyst, I'm passionate about turning raw data into meaningful insights that drive informed decision-making. 
-This space is where I share my BI projects, data visualizations, and contributions to the data-driven community.
+I'm Emmanuel Isaiah, a Business Analyst and Product Manager, dedicated to optimizing operations and driving success for organizations. I specialize in bridging the gap between analysis and product strategy. Amongst my arsenal, below are a few of my preferred technologies:
 
-With a strong background in data analysis, visualization, and reporting, I thrive on uncovering patterns and trends that empower businesses to succeed. From creating interactive dashboards to optimizing data pipelines, I'm committed to enhancing data-driven strategies.
+Data Analytics: {Python | Google Analytics | SAS }
+Business Intelligence Software: {QlikView | Looker | Sisense}
+Product Management Platforms : {Trello | Jira}  
+Agile Methodologies: {Scrum | Feature-Driven Development | 
+Market Research Tools: {Google Surveys| SurveyMonkey | Qualtrics}
+Data Visualization Technologies: {Tableau | Power BI}
 
-Feel free to explore my repositories to see how I've transformed complex data into actionable insights. If you're interested in collaborating or discussing all things data, don't hesitate to get in touch. Let's connect and embark on a journey of data-driven excellence!
+Some others include:
+Adobe Analytics
+Google Surveys
+Agile Unified Process 
+Dynamic Systems Development Method
+SPSS
+
+
+Feel free to explore my repositories to see how I've transformed complex data into actionable insights. 
+If you're interested in collaborating or discussing all things data, don't hesitate to get in touch. 
+Let's connect and embark on a journey of data-driven excellence!
+
 
 Looking forward to collaborating and learning together! 📊🚀
