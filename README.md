@@ -8,12 +8,7 @@ Agile Methodologies: {Scrum | Feature-Driven Development |
 Market Research Tools: {Google Surveys| SurveyMonkey | Qualtrics}
 Data Visualization Technologies: {Tableau | Power BI}
 
-Some others include:
-Adobe Analytics
-Google Surveys
-Agile Unified Process 
-Dynamic Systems Development Method
-SPSS
+Some others include: Adobe Analytics, Google Surveys, SPSS, Agile Unified Process (AUP), and Dynamic Systems Development Method (DSDM).
 
 
 Feel free to explore my repositories to see how I've transformed complex data into actionable insights. 
